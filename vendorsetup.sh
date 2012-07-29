@@ -33,7 +33,7 @@ add_lunch_combo cm_maguro-userdebug
 #add_lunch_combo cm_p5-userdebug
 #add_lunch_combo cm_p5wifi-userdebug
 #add_lunch_combo cm_p930-userdebug
-#add_lunch_combo cm_pyramid-userdebug
+add_lunch_combo cm_pyramid-userdebug
 #add_lunch_combo cm_quincyatt-userdebug
 #add_lunch_combo cm_satsuma-userdebug
 #add_lunch_combo cm_shooter-userdebug
